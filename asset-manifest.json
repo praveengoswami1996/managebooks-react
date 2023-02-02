@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/managebooks-react/static/css/main.1f59ae86.css",
+    "main.js": "/managebooks-react/static/js/main.597e586e.js",
+    "index.html": "/managebooks-react/index.html",
+    "main.1f59ae86.css.map": "/managebooks-react/static/css/main.1f59ae86.css.map",
+    "main.597e586e.js.map": "/managebooks-react/static/js/main.597e586e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f59ae86.css",
+    "static/js/main.597e586e.js"
+  ]
+}
