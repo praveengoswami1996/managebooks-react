@@ -7,8 +7,7 @@ function Provider({ children }){
     const [books, setBooks] = useState([]);
 
     const fetchBooks = async () => {
-        const response = await axios.get('https://my-json-server.typicode.com/praveengoswami1996/managebooks-db/books/');
-        console.log(response);
+        const response = await axios.get('http://localhost:3001/books');
         setBooks(response.data);
     }
 
