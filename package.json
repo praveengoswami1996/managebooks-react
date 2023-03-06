@@ -14,7 +14,7 @@
         "web-vitals": "^2.1.4"
     },
     "scripts": {
-        "start": "react-scripts start",
+        "start": "node server.js",
         "server": "json-server -p 3001 --watch db.json --host 127.0.0.1",
         "build": "react-scripts build",
         "test": "react-scripts test",
