@@ -1,20 +1,16 @@
 {
   "books": [
     {
+      "title": "Pirates of the Caribbean",
+      "id": 1
+    },
+    {
+      "title": "Monster Encounter",
+      "id": 2
+    },
+    {
       "title": "Rich Dad Poor Dad",
       "id": 3
-    },
-    {
-      "title": "React JS He",
-      "id": 7
-    },
-    {
-      "title": "Bollywood Exposed",
-      "id": 8
-    },
-    {
-      "title": "hhvhvhvh",
-      "id": 9
     }
   ]
 }
