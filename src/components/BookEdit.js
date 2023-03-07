@@ -13,6 +13,7 @@ function BookEdit({ book, onSubmit }){
         event.preventDefault();
         onSubmit();
         updateBook(newTitle, book.id);
+        console.log("updatedBook Called");
     }
 
     return (
