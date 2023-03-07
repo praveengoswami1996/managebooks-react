@@ -14,7 +14,10 @@ This is a basic CRUD app built in React. In this application, you can simply add
 - props
 - React Context API
 - Axios for Data Fetching
+- parse for backend implementation
+- back4app server
 
 ## Deployed at:
+https://pg1996-myreadinglist-react.netlify.app/
 
 
